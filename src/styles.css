@@ -151,7 +151,7 @@ li{
     cursor: pointer;
 }
 .btn:hover{
-    transform: scale(110%) rotate(-2deg);
+    transform: scale(110%);
     transition: 0.3s;
 }
 
